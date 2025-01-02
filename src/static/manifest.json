@@ -1,6 +1,6 @@
 {
-  "name": "Linkedin Profile Scraper",
-  "description": "Scrapes LinkedIn profile and downloads most recent job history",
+  "name": "Linkedin Profile Downloader",
+  "description": "Download Linkedin Resume profiles as word document files",
   "version": "1.0.0",
   "manifest_version": 3,
   "icons": {
@@ -9,7 +9,7 @@
     "128": "icon.png"
   },
   "action": {
-    "default_title": "LinkedIn Profile Scraper",
+    "default_title": "LinkedIn Profile Downloader",
     "default_icon": "icon.png"
   },
   "permissions": ["storage","tabs"],
