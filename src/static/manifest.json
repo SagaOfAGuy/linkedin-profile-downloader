@@ -1,0 +1,25 @@
+{
+  "name": "Linkedin Profile Scraper",
+  "description": "Scrapes LinkedIn profile and downloads most recent job history",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_title": "LinkedIn Profile Scraper",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["storage","tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}

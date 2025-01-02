@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener((()=>{console.log("Extension Installed!")})),chrome.tabs.onUpdated.addListener((async(e,s,o)=>{"complete"===s.status&&(console.log("URL has changed"),console.log(o.url),chrome.tabs.sendMessage(e,{type:"URL_CHANGE",url:o.url}))}));
