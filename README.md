@@ -33,3 +33,15 @@ To use the extension, we can follow these steps below:
 2. Click the `Download Profile DOCX` button to download the profile information
 
 ![alt text](image-4.png)
+
+
+# Building the extension
+1. To build this extension, we first need to download any dependency packages. To do this, we can run the command below to install needed packages: 
+```bash
+npm install 
+```
+2. We can build this extension from source code via the command below: 
+
+```bash
+npm run build
+```
