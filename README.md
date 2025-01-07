@@ -1,7 +1,7 @@
 # Linkedin Profile Downloader
 Chrome extension that allows for users to scrape Linkedin Profile information and save it as a DOCX file.
 
-Chrome Web Store Link: https://chromewebstore.google.com/detail/linkedin-profile-download/ebjdfpoegdaamleafgbedpimdgjlplja?authuser=0&hl=en 
+**Chrome Web Store Link:** https://chromewebstore.google.com/detail/linkedin-profile-download/ebjdfpoegdaamleafgbedpimdgjlplja?authuser=0&hl=en 
 
 
 # Installation
