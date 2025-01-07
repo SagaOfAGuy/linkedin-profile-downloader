@@ -37,7 +37,7 @@ To use the extension, we can follow these steps below:
 
 ![alt text](imgs/image-4.png)
 
-# Building the extension
+# Building the extension (Optional)
 1. To build this extension, we first need to download any dependency packages. To do this, we can run the command below to install needed packages. Note that we should be in the `react-linkedin-resume-extension` folder when running these commands: 
 ```bash
 npm install 
