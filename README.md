@@ -37,8 +37,8 @@ To use the extension, we can follow these steps below:
 ![alt text](image-4.png)
 
 
-# Building the extension
-1. To build this extension, we first need to download any dependency packages. To do this, we can run the command below to install needed packages: 
+# Building the extension (Optional)
+1. To build this extension, we first need to download any dependency packages. To do this, we can run the command below to install needed packages. Make sure to navigate to the directory that houses the project before run the command below:  
 ```bash
 npm install 
 ```
