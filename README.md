@@ -31,8 +31,8 @@ git clone https://github.com/SagaOfAGuy/react-linkedin-resume-extension.git
 To use the extension, we can follow these steps below: 
 
 1. Browse to a Linkedin Profile page in the chrome browser
-
-2. Click the `Download Profile DOCX` button to download the profile information
+2. Refresh the webpage (This is important!). 
+3. Click the `Download Profile DOCX` button to download the profile information when it appears
 
 ![alt text](image-4.png)
 
