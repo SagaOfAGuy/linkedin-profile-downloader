@@ -1,8 +1,6 @@
 # react-linkedin-resume-extension
 Chrome extension that allows for users to scrape Linkedin Profile information and save it as a DOCX file.
 
-Chrome Web Store Link: https://chromewebstore.google.com/detail/linkedin-profile-download/ebjdfpoegdaamleafgbedpimdgjlplja?authuser=0&hl=en 
-
 # Installation
 1. Open Chrome browser
 2. Browse to the URL `chrome://extensions` in the Chrome browser
@@ -31,7 +29,7 @@ git clone https://github.com/SagaOfAGuy/react-linkedin-resume-extension.git
 To use the extension, we can follow these steps below: 
 
 1. Browse to a Linkedin Profile page in the chrome browser
+2. Refresh the webpage (This is important!). 
+3. Click the `Download Profile DOCX` button to download the profile information when it appears
 
-2. Click the `Download Profile DOCX` button to download the profile information
-
-![alt text](imgs/image-4.png)
+![alt text](image-4.png)
